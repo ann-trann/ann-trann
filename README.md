@@ -1,5 +1,4 @@
 ### Hi there 👋
-chỉ sợ 1 ngày thực tế quá đói khát, sẽ ăn luôn cả những ước mơ
 
 <!--
 **ann-trann/ann-trann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,3 +28,6 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ann-trann&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+chỉ sợ 1 ngày thực tế quá đói khát, sẽ ăn luôn cả những ước mơ
